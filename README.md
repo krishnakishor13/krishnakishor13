@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishnakishor13
 - 👀 I’m interested in explorrations
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently Fullstack web Developer
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me krishnakishor@techis.io
 
