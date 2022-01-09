@@ -34,7 +34,7 @@ Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
 </p>
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<!--   <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" /> -->
   
   
 ### ✨ Quick Facts
