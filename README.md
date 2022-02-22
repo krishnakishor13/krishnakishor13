@@ -42,7 +42,7 @@ Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working working as a Full Stack Web Developer @ [TECHIS](https://techis.io/)
+- 👨🏽‍💻 I’m currently working as a Full Stack Web Developer @ [TECHIS](https://techis.io/)
 - 🌱 I’m currently learning Redux and BB
 <!--- 🤔 I’m looking for help for my future MERN projects.-->
 - 💬 Ask me about anything related to JS, React, Redux, Django, HTML and CSS.(After googling it 😜😌)
