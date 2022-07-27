@@ -73,6 +73,11 @@ A Skilled FullStack Web Developer 🚀 from India. Always working on some projec
 
 ----------------------------------------------------------
 
+<div align:"center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakishor13&theme=blue-green)
+
+</div>
 <div align="center">
 <div style="display: flex;">
 <picture>
@@ -84,10 +89,6 @@ A Skilled FullStack Web Developer 🚀 from India. Always working on some projec
 ![](https://github-readme-stats.vercel.app/api?username=krishnakishor13&theme=blue-green)
 </div>
 </div>
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakishor13&theme=blue-green)
-
 
 ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
