@@ -29,22 +29,9 @@
 <p>
 A Skilled FullStack Web Developer 🚀 from India. Always working on some project or learning something new!
 <br/>
-Stacks I have worked with : React-Redux
-<br/>  
-Things I am currently experimenting with : Redux, JavaScript, SAAS
-<br/>
-Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
 </p>
 
 
-  
-  
-### ✨ Quick Facts
-
-- 👨🏽‍💻 I’m currently working as a Full Stack Web Developer @ [TECHIS](https://techis.io/)
-
-- 📫 How to reach me: krishnakishor@techis.io
-- 📝 [Resume](https://drive.google.com/file/d/1bUOC23UPBNhVu5d-EQ4OKuvNikMFWOar/view?usp=sharing)
 
 ### 🛠️ Languages and Tools:
 
@@ -86,7 +73,17 @@ Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
 
 ----------------------------------------------------------
 
+<div align="center">
+<div style="display: flex;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnakishor13&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnakishor13&theme=nord_bright">
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnakishor13&theme=nord_dark">
+</picture>
+
 ![](https://github-readme-stats.vercel.app/api?username=krishnakishor13&theme=blue-green)
+</div>
+</div>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakishor13&theme=blue-green)
