@@ -73,11 +73,8 @@ A Skilled FullStack Web Developer 🚀 from India. Always working on some projec
 
 ----------------------------------------------------------
 
-<div align:"center">
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakishor13&theme=blue-green)
 
-</div>
 <div align="center">
 <div style="display: flex;">
 <picture>
